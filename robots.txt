@@ -1,0 +1,5 @@
+# robots.txt for Deepfake Detection Research Website
+User-agent: *
+Allow: /
+
+Sitemap: https://tuhinsarkar.in/deepfake-benchmark/sitemap.xml
